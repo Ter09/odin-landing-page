@@ -1,0 +1,139 @@
+body {
+    background-color: #333;
+}
+
+#header {
+    border: thin solid #1f2937;
+    width: auto;
+    background-color: #1f2937;
+}
+
+ul {
+    display: flex;
+    list-style-type: none; 
+}
+
+#logo {
+    margin-right: auto;
+}
+
+ul li a {
+    text-decoration: none;
+    margin: 1em;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.logo-link {
+    margin-top: auto;
+}
+.logo-text {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #F9FAF8;
+    margin-left: 0;
+}
+
+.text {
+    display: flex;
+    /*justify-content: space-between;
+    margin: 0 2em;*/
+}
+#headertext {
+    margin-right: auto;
+}
+
+.maintext {
+    font-size: 37px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F9FAF8;
+}
+
+#herotext {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #E5E7EB;
+}
+
+.sign {
+    border: thin solid #3882f6;
+    background-color: #3882f6;
+    border-radius: .2em;
+    color: #fff;
+}
+
+#box-info {
+    border: thin solid #fff;
+    background-color: #fff;
+}
+
+#infoheader {
+    text-align: center;
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1f2937;
+}
+
+#box-1 {
+    display: flex;
+    justify-content: center;
+}
+.img {
+    margin: 1em;
+}
+
+.quote {
+    text-align: center;
+    padding: 25px;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+#qot {
+    border: thin solid #E5E7EB;
+    height: 300px;
+    background-color: #E5E7EB;
+    border-radius: .2em;
+    
+}
+
+#tar {
+    margin-left: 10em;
+
+}
+
+#click {
+    margin-left: 1em;
+    color: #fff;
+}
+
+#bottomtext {
+    display: flex;
+    padding-top: 5px;
+}
+
+.bottom {
+    border: thin solid #3882f6;
+    background-color: #3882f6;
+}
+#sgu {
+    margin-right: 1em;
+    border: thin solid #fff;
+    border-radius: .2em;
+    color: #fff;
+    background-color: #3882f6;
+}
+
+#copy {
+    text-align: center;
+}
+
+.bot-par {
+    margin-right: auto;
+}
+
+.foot-copy {
+    border: thin solid #1f2937;
+    background-color: #1f2937;
+    color: #fff;
+}
