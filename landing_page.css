@@ -65,7 +65,6 @@ ul li a {
     border: thin solid #fff;
     background-color: #fff;
 }
-
 #infoheader {
     text-align: center;
     font-size: 36px;
@@ -114,6 +113,7 @@ ul li a {
 
 .bottom {
     border: thin solid #3882f6;
+    border-radius: .2em;
     background-color: #3882f6;
 }
 #sgu {
@@ -134,6 +134,7 @@ ul li a {
 
 .foot-copy {
     border: thin solid #1f2937;
+    border-radius: .2em;
     background-color: #1f2937;
     color: #fff;
 }
